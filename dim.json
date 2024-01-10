@@ -1,0 +1,515 @@
+{
+  "fileVersion": "1.1",
+  "contents": [
+    {
+      "name": "与那国町",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7000020473821",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "うるま市",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020472131",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "とかしき観光バス合同会社",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1360003002626",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9340001004024",
+      "name": "マリックスライン株式会社",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "マルエーフェリー株式会社",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5340001010554",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "中城村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020473286",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "中央交通（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7360001012745",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "久米商船（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4360001000835",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4000020473618",
+      "name": "久米島町",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "久高海運",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360003002575",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "伊平屋村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9000020473596",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "伊是名村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020473600",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "伊江島観光バス（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7360001012407",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "伊江村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020473154",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/6360001013190",
+      "name": "八重山観光フェリー（株）",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "北中城村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020473278",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "南城市",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/3000020472158",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "合同会社やんばる急行バス",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1360003007856",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "合名会社大神海運",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/6360003005178",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "名護市",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1000020472093",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "国頭村役場",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020473014",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "多良間村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4000020473758",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "多良間海運",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360003005256",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "宮古協栄バス（資）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7360003005301",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "平安座総合開発（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1360001007585",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2000020473545",
+      "name": "座間味村役場",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/3360002008754",
+      "name": "有限会社カリー観光",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9360001013023",
+      "name": "東バス",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "東京バス株式会社",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7011501003070",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "東村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4000020473031",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "東陽バス（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360001015810",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/8360003004772",
+      "name": "水納海運",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "沖縄エアポートシャトルLLP",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/360005005779",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "沖縄バス（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360001000457",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "沖縄市",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020472115",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "沖縄都市モノレール株式会社",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4360001000447",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "渡嘉敷村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2000020473537",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "由布島",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9360001013238",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5360003005096",
+      "name": "福山海運",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "第一マリンサービス",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5290801024676",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "粟国村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2000020473553",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "糸満市",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5000020472107",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "船浮海運",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1360002020959",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "西表島交通（株）",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360001013046",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "読谷村",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7000020473243",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4360002020964",
+      "name": "（有）安栄観光",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "（有）神谷観光",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/6360002013009",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/4360002021665",
+      "name": "（有）竹富島交通",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "（株）八千代バス・タクシー",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/5360001014132",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "（資）共和バス",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/9360003005217",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    },
+    {
+      "name": "（資）浦内川観光",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/1360003005018",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "unzip"
+      ],
+      "headers": {}
+    }
+  ]
+}
